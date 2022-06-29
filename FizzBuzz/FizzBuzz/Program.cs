@@ -6,29 +6,37 @@ namespace FizzBuzz
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Team"); 
+            Console.WriteLine("Hello Team");
 
-            for(int i = 1; i < 100; i++)
+            PrintFizzBuzz(); 
+             
+
+        }
+
+
+        public static void PrintFizzBuzz()
+        {
+            for (int i = 1; i < 100; i++)
             {
-               if(i % 3 == 0 && i % 5 == 0)
+                if (i % 3 == 0 && i % 5 == 0)
                 {
-                    Console.WriteLine("FizzBuzz"); 
+                    Console.WriteLine("FizzBuzz");
                 }
-               else if(i % 3 == 0)
+                else if (i % 3 == 0)
                 {
-                    Console.WriteLine("Fizz"); 
+                    Console.WriteLine("Fizz");
                 }
-               else if( i % 5 == 0)
+                else if (i % 5 == 0)
                 {
-                    Console.WriteLine("Buzz"); 
+                    Console.WriteLine("Buzz");
                 }
                 else
                 {
-                    Console.WriteLine(i); 
+                    Console.WriteLine(i);
                 }
 
             }
-
         }
+
     }
 }
