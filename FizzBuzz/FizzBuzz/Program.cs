@@ -1,4 +1,4 @@
-﻿using System; 
+﻿using System;
 
 namespace FizzBuzz
 {
@@ -8,8 +8,8 @@ namespace FizzBuzz
         {
             Console.WriteLine("Hello Team");
 
-            PrintFizzBuzz(); 
-             
+            PrintFizzBuzz();
+
 
         }
 

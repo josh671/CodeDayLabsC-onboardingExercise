@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jbord\\OneDrive\\Desktop\\C#OnboardingExercise\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {}
+    "C:\\Users\\jbord\\OneDrive\\Desktop\\C#OnboardingExercise\\fizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jbord\\OneDrive\\Desktop\\C#OnboardingExercise\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {
+    "C:\\Users\\jbord\\OneDrive\\Desktop\\C#OnboardingExercise\\fizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jbord\\OneDrive\\Desktop\\C#OnboardingExercise\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "C:\\Users\\jbord\\OneDrive\\Desktop\\C#OnboardingExercise\\fizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "C:\\Users\\jbord\\OneDrive\\Desktop\\C#OnboardingExercise\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+        "projectPath": "C:\\Users\\jbord\\OneDrive\\Desktop\\C#OnboardingExercise\\fizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
         "packagesPath": "C:\\Users\\jbord\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jbord\\OneDrive\\Desktop\\C#OnboardingExercise\\FizzBuzz\\FizzBuzz\\obj\\",
+        "outputPath": "C:\\Users\\jbord\\OneDrive\\Desktop\\C#OnboardingExercise\\fizzBuzz\\FizzBuzz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
